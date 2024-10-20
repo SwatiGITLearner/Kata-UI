@@ -1,0 +1,36 @@
+.cart {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .cart h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .cart-summary {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .book-title {
+    font-weight: bold;
+  }
+  
+  .book-quantity,
+  .book-price,
+  .book-total {
+    margin-left: 10px;
+  }
+  
